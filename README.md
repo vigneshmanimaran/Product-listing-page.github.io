@@ -5,7 +5,7 @@ The webpage shows the detailed explaination.
 
 please check my webpage here : https://vigneshmanimaran.github.io/Product-listing-page.github.io/
 
-Here I attched the mock up of the webpage
+Here I attched the screenshots of the webpage
 
 ![2021-07-20 01_05_14-SWAG OF INDIA](https://user-images.githubusercontent.com/76697341/126242901-fe049b2b-da88-4282-9816-de6d621e3463.png)
 ![2021-07-20 01_05_39-SWAG OF INDIA](https://user-images.githubusercontent.com/76697341/126242902-14f8c565-7fcb-4af6-875b-63fa12612361.png)
